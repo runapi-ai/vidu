@@ -1,0 +1,10 @@
+{
+  "name": "vidu",
+  "version": "0.1.0",
+  "description": "RunAPI Vidu skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/vidu/SKILL.md"
+    }
+  ]
+}
